@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="VogusovaCalculator.Logic/VogusovaCalculator.Logic.csproj" Id="03093c95-2e3d-4f8c-a6d5-927875cdb0f9" />
+  <Project Path="VogusovaCalculator.Tests/VogusovaCalculator.Tests.csproj" Id="43d6a710-82aa-42cd-a1b1-fbf8f04fe64a" />
+  <Project Path="VogusovaCalculator.UI/VogusovaCalculator.UI.csproj" Id="8aac108c-2ec9-46d0-a249-4cafcd153271" />
+</Solution>
